@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtXVts8aADuN+FD/w0sylcXc5KHztuGMSkctCzaxmkg1qqsrVD944ZCLfSTc5n0B9TcwBDX4j4GHNqRMs1YcCQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anatoly\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
